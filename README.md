@@ -1,75 +1,81 @@
 
 <div align="center">
 
-# SLVmast
-
-### SOFTWARE QUALITY ASSURANCE
-
-Manual QA · Test Automation
+<img src="https://img.shields.io/badge/SLVmast-101923?style=for-the-badge&logo=github&logoColor=58E6D0&labelColor=101923" />
 
 <br>
 
-*Learning how to test software. Building practical experience.*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=58E6D0&center=true&vCenter=true&width=650&lines=QUALITY+ASSURANCE;MANUAL+QA+%2F+TESTING;LEARNING+TEST+AUTOMATION;BUILDING+A+QA+PORTFOLIO" />
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/QA_PORTFOLIO-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SLVmast/qa-portfolio)
+<img src="https://img.shields.io/badge/MANUAL_QA-58E6D0?style=flat-square&labelColor=101923" />
+<img src="https://img.shields.io/badge/AUTOMATION_QA-83BFFF?style=flat-square&labelColor=101923" />
 
 </div>
 
 ---
 
-## `01` — About
+## `01` / ABOUT
 
-I'm developing my skills in Software Quality Assurance, with a focus on manual testing and test automation.
+I'm developing my skills in Software Quality Assurance, focusing on manual testing and test automation.
 
-My current goal is to build a solid understanding of testing processes and apply that knowledge through practical projects.
-
-This profile documents my learning process and the work I complete along the way.
+This profile is a place to document my learning process and practical work.
 
 ---
 
-## `02` — Areas of Focus
+## `02` / QA FOCUS
 
-### Manual QA
+<details>
+<summary><b>Manual QA</b></summary>
 
-Understanding application behavior and identifying defects through structured testing.
+- Software testing fundamentals
+- Test cases and checklists
+- Functional testing
+- Bug reporting
+- Regression testing
 
-### Automation QA
+</details>
 
-Learning to automate repetitive checks and build reliable end-to-end tests.
+<details>
+<summary><b>Automation QA</b></summary>
+
+- JavaScript fundamentals
+- Playwright
+- UI and end-to-end testing
+- Automated test scenarios
+
+</details>
 
 ---
 
-## `03` — Current Learning
+## `03` / LEARNING PATH
 
-| Area | Status |
+| Technology | Status |
 |:---|:---|
-| Software Testing Fundamentals | In progress |
-| Test Cases & Checklists | In progress |
-| Bug Reporting | In progress |
+| Testing fundamentals | In progress |
+| Git / GitHub | In progress |
 | JavaScript | Planned |
 | Playwright | Planned |
 | API Testing | Planned |
 | SQL | Planned |
-| Git & GitHub | In progress |
 
 ---
 
-## `04` — Portfolio
+## `04` / PROJECTS
 
 ### QA Portfolio
 
-A repository for practical QA exercises and projects.
+Practical exercises and testing documentation.
 
-[View repository →](https://github.com/SLVmast/qa-portfolio)
-
-*More projects will be added as they are completed.*
+[→ Explore QA Portfolio](https://github.com/SLVmast/qa-portfolio)
 
 ---
 
 <div align="center">
 
-<sub>SLVmast · QA Engineering</sub>
+<img src="https://img.shields.io/badge/SLVmast-101923?style=flat-square&labelColor=101923&color=58E6D0" />
+
+<sub>SOFTWARE QUALITY ASSURANCE</sub>
 
 </div>
