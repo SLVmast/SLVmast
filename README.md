@@ -3,92 +3,73 @@
 
 # SLVmast
 
-**QA ENGINEERING PORTFOLIO**
+### SOFTWARE QUALITY ASSURANCE
 
-Manual Testing &nbsp; / &nbsp; Test Automation
+Manual QA · Test Automation
 
 <br>
 
-<img src="https://img.shields.io/badge/MANUAL_QA-45B39D?style=for-the-badge&labelColor=17212B" />
-<img src="https://img.shields.io/badge/AUTOMATION-4C91B8?style=for-the-badge&labelColor=17212B" />
+*Learning how to test software. Building practical experience.*
 
-<br><br>
+<br>
 
-*Understanding software. Finding problems. Improving quality.*
-
-</div>
-
----
-
-## About me
-
-I'm building my skills in software testing, focusing on manual QA and test automation.
-
-I enjoy exploring how applications work, finding unexpected behavior and understanding why things break.
-
-This profile is where I document my progress and share practical projects.
-
----
-
-## 01 — Manual Testing
-
-**Testing from a user's perspective.**
-
-- Functional and exploratory testing
-- Test cases and checklists
-- Bug reporting
-- Regression testing
-- Web application testing
-
----
-
-## 02 — Automation Testing
-
-**Making software testing more efficient.**
-
-- JavaScript fundamentals
-- Playwright
-- UI automation
-- End-to-end testing
-- Automated test scenarios
-
----
-
-## Technology & Tools
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-learning-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Playwright-learning-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-learning-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-learning-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-learning-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+[![Portfolio](https://img.shields.io/badge/QA_PORTFOLIO-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SLVmast/qa-portfolio)
 
 </div>
 
 ---
 
-## Projects
+## `01` — About
+
+I'm developing my skills in Software Quality Assurance, with a focus on manual testing and test automation.
+
+My current goal is to build a solid understanding of testing processes and apply that knowledge through practical projects.
+
+This profile documents my learning process and the work I complete along the way.
+
+---
+
+## `02` — Areas of Focus
+
+### Manual QA
+
+Understanding application behavior and identifying defects through structured testing.
+
+### Automation QA
+
+Learning to automate repetitive checks and build reliable end-to-end tests.
+
+---
+
+## `03` — Current Learning
+
+| Area | Status |
+|:---|:---|
+| Software Testing Fundamentals | In progress |
+| Test Cases & Checklists | In progress |
+| Bug Reporting | In progress |
+| JavaScript | Planned |
+| Playwright | Planned |
+| API Testing | Planned |
+| SQL | Planned |
+| Git & GitHub | In progress |
+
+---
+
+## `04` — Portfolio
 
 ### QA Portfolio
 
-My collection of practical testing projects.
+A repository for practical QA exercises and projects.
 
-- Manual testing documentation
-- Checklists and test cases
-- Bug reports
-- API testing
-- Playwright automation
+[View repository →](https://github.com/SLVmast/qa-portfolio)
 
-[Explore repository →](https://github.com/SLVmast/qa-portfolio)
+*More projects will be added as they are completed.*
 
 ---
 
 <div align="center">
 
-**LEARNING · PRACTICING · BUILDING**
-
-<sub>One test at a time.</sub>
+<sub>SLVmast · QA Engineering</sub>
 
 </div>
