@@ -3,16 +3,16 @@
 
 # SLVmast
 
-### QA ENGINEERING PORTFOLIO
+**QA ENGINEERING PORTFOLIO**
 
-**Manual Testing · Test Automation**
+Manual Testing &nbsp; / &nbsp; Test Automation
 
-<br/>
+<br>
 
-<img src="https://img.shields.io/badge/FOCUS-MANUAL_QA-45B39D?style=for-the-badge&labelColor=17212B" />
-<img src="https://img.shields.io/badge/FOCUS-AUTOMATION-4C91B8?style=for-the-badge&labelColor=17212B" />
+<img src="https://img.shields.io/badge/MANUAL_QA-45B39D?style=for-the-badge&labelColor=17212B" />
+<img src="https://img.shields.io/badge/AUTOMATION-4C91B8?style=for-the-badge&labelColor=17212B" />
 
-<br/><br/>
+<br><br>
 
 *Understanding software. Finding problems. Improving quality.*
 
@@ -20,27 +20,31 @@
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## About me
 
-### ◈ MANUAL QA
+I'm building my skills in software testing, focusing on manual QA and test automation.
+
+I enjoy exploring how applications work, finding unexpected behavior and understanding why things break.
+
+This profile is where I document my progress and share practical projects.
+
+---
+
+## 01 — Manual Testing
 
 **Testing from a user's perspective.**
 
-- Functional testing
-- Exploratory testing
-- Test cases & checklists
-- Bug reports
+- Functional and exploratory testing
+- Test cases and checklists
+- Bug reporting
 - Regression testing
 - Web application testing
 
-</td>
-<td width="50%" valign="top">
+---
 
-### ◈ AUTOMATION QA
+## 02 — Automation Testing
 
-**Making repetitive testing more efficient.**
+**Making software testing more efficient.**
 
 - JavaScript fundamentals
 - Playwright
@@ -48,21 +52,9 @@
 - End-to-end testing
 - Automated test scenarios
 
-</td>
-</tr>
-</table>
-
 ---
 
-## ABOUT
-
-I'm building my knowledge in software testing with a focus on both manual QA and test automation.
-
-This GitHub profile is where I document my learning process, experiment with tools and publish practical testing projects.
-
-I prefer understanding how things work rather than simply following instructions.
-
-## TECHNOLOGY STACK
+## Technology & Tools
 
 <div align="center">
 
@@ -75,47 +67,27 @@ I prefer understanding how things work rather than simply following instructions
 
 </div>
 
-## PROJECTS
+---
 
-<table>
-<tr>
-<td>
+## Projects
 
-**01 / Manual Testing**
+### QA Portfolio
 
-Test documentation, checklists, test cases and bug reports.
+My collection of practical testing projects.
 
-</td>
-</tr>
-<tr>
-<td>
+- Manual testing documentation
+- Checklists and test cases
+- Bug reports
+- API testing
+- Playwright automation
 
-**02 / Test Automation**
-
-Practical UI and end-to-end testing with Playwright.
-
-</td>
-</tr>
-<tr>
-<td>
-
-**03 / API Testing**
-
-REST API experiments and Postman collections.
-
-</td>
-</tr>
-</table>
+[Explore repository →](https://github.com/SLVmast/qa-portfolio)
 
 ---
 
 <div align="center">
 
-### CURRENT STATUS
-
-`LEARNING` · `PRACTICING` · `BUILDING`
-
-<br/>
+**LEARNING · PRACTICING · BUILDING**
 
 <sub>One test at a time.</sub>
 
