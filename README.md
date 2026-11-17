@@ -1,149 +1,71 @@
+SLVmast
 
-<div align="center">
+<h1 align="center">Junior QA Engineer</h1>
+<p align="center">
+  Manual Testing · Web Application QA · JavaScript · Playwright
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/QA-Engineer-2ea44f?style=flat-square" />
+  <img src="https://img.shields.io/badge/Manual-Testing-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Automation-Playwright-45ba4b?style=flat-square" />
+</p>
 
-# <span style="color:#58E6D0">SLVmast</span>
+⸻
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=900&color=58E6D0&center=true&vCenter=true&width=700&lines=SOFTWARE+QUALITY+ASSURANCE;MANUAL+TESTING;TEST+AUTOMATION;BUILDING+MY+QA+PORTFOLIO" />
+About Me
 
-<br>
+Junior QA Engineer focused on web application quality and software testing.
 
-<img src="https://img.shields.io/badge/MANUAL_QA-58E6D0?style=for-the-badge&labelColor=14212B" />
-<img src="https://img.shields.io/badge/AUTOMATION_QA-83BFFF?style=for-the-badge&labelColor=14212B" />
+I work with technical specifications, perform functional and regression testing, design test cases and checklists, and document software defects.
 
-<br><br>
+I focus on understanding application behavior, identifying inconsistencies, and ensuring reliable user experience.
 
-**Exploring software. Understanding behavior. Learning to find defects.**
+Currently expanding my automation testing skills using JavaScript and Playwright.
 
-</div>
+Skills & Technologies
 
----
+Testing
 
-# 01. ABOUT ME
+* Manual Testing
+* Functional Testing
+* Smoke Testing
+* Regression Testing
+* Exploratory Testing
+* Test Case Design
+* Checklist Creation
+* Bug Reporting
 
-I'm building my path in **Software Quality Assurance**, with an interest in both manual testing and test automation.
+Tools
 
-I want to understand not only whether an application works, but also how it behaves in different scenarios, where unexpected issues appear, and how software quality can be improved.
+* Chrome DevTools
+* Git
+* GitHub
 
-This GitHub profile is my working space for learning, practical exercises and documenting progress.
+Programming & Automation
 
-### My direction
+* JavaScript
+* Playwright
+* HTML / CSS fundamentals
 
-- Understand software testing principles and methodologies.
-- Learn to design clear and meaningful test scenarios.
-- Practice identifying, documenting and reproducing defects.
-- Develop programming skills for test automation.
-- Build a portfolio based on practical work.
+QA Portfolio
 
----
+My repositories contain practical examples of software testing:
 
-# 02. MANUAL QUALITY ASSURANCE
+* Test documentation
+* Test cases and checklists
+* Bug reports
+* Web application testing
+* UI automation with Playwright
 
-<sub>01 / TESTING FUNDAMENTALS</sub>
+Currently Working On
 
-Manual testing is the foundation of my QA learning path.
+* Improving manual testing techniques
+* Deepening knowledge of HTTP and web technologies
+* Learning JavaScript for test automation
+* Building automated UI tests with Playwright
 
-Areas I want to develop:
+⸻
 
-- **Functional Testing** — checking application features against expected behavior.
-- **Exploratory Testing** — investigating an application beyond predefined scenarios.
-- **Regression Testing** — checking whether changes affect existing functionality.
-- **Test Cases & Checklists** — organizing test scenarios and expected results.
-- **Bug Reporting** — documenting defects clearly and reproducibly.
-- **UI Testing** — examining interface elements and user interactions.
-
----
-
-# 03. TEST AUTOMATION
-
-<sub>02 / AUTOMATION ENGINEERING</sub>
-
-My second direction is learning how to automate repetitive testing tasks and build reliable automated checks.
-
-### Learning roadmap
-
-**JavaScript**
-
-Programming fundamentals and the language used for writing automated tests.
-
-**Playwright**
-
-Learning browser automation and end-to-end testing.
-
-**API Testing**
-
-Understanding HTTP requests, responses and application interfaces.
-
-**SQL**
-
-Learning to work with databases and verify stored data.
-
----
-
-# 04. TOOLS & TECHNOLOGIES
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-LEARNING-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=17212B" />
-
-<img src="https://img.shields.io/badge/Playwright-PLANNED-2EAD33?style=for-the-badge&logo=playwright&logoColor=white&labelColor=17212B" />
-
-<img src="https://img.shields.io/badge/Postman-PLANNED-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=17212B" />
-
-<img src="https://img.shields.io/badge/SQL-PLANNED-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=17212B" />
-
-<img src="https://img.shields.io/badge/Git-LEARNING-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=17212B" />
-
-<img src="https://img.shields.io/badge/GitHub-LEARNING-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=17212B" />
-
-</div>
-
----
-
-# 05. PROJECTS
-
-### QA Portfolio
-
-A dedicated repository for my practical QA work.
-
-The goal is to gradually build a collection of testing documentation and practical exercises.
-
-**Planned project materials:**
-
-- Application analysis
-- Test scenarios and checklists
-- Functional testing
-- Bug reports
-- API testing exercises
-- Automated browser tests
-
-<br>
-
-<div align="center">
-
-[![QA Portfolio](https://img.shields.io/badge/OPEN_QA_PORTFOLIO-58E6D0?style=for-the-badge&logo=github&logoColor=black&labelColor=17212B)](https://github.com/SLVmast/qa-portfolio)
-
-</div>
-
----
-
-# 06. CURRENT STATUS
-
-**Portfolio:** In development
-
-**Manual QA:** Learning fundamentals
-
-**Automation QA:** Learning roadmap
-
-**Main objective:** Build practical skills and document the results through real projects.
-
----
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/SLVmast-QA_ENGINEERING-58E6D0?style=for-the-badge&labelColor=17212B" />
-
-<br><br>
-
-*Learning. Testing. Improving.*
-
-</div>
+<p align="center">
+  <i>Quality is built through attention to detail.</i>
+</p>
