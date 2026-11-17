@@ -1,61 +1,64 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,45:312E81,100:0891B2&height=210&section=header&text=SLVmast&fontSize=72&fontColor=FFFFFF&fontAlignY=42&desc=JUNIOR%20QA%20ENGINEER&descSize=20&descAlignY=68&animation=fadeIn" width="100%"/>
-<br/>
-### SOFTWARE QUALITY · WEB TESTING · BUG HUNTING
-<br/>
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SLVmast)
+ <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:111827,50:312E81,100:0891B2&text=SLVmast&fontColor=ffffff&fontSize=70&fontAlignY=45&desc=JUNIOR%20QA%20ENGINEER&descAlignY=68&animation=fadeIn" width="100%" alt="SLVmast Junior QA Engineer"/>
+<br>
+
+Manual QA · Web Testing · Automation in Progress
+
 </div>
----
-## 👨‍💻 About Me
-I'm a Junior QA Engineer focused on web application testing and software quality.
-I work with technical specifications, analyze application behavior, perform functional and regression testing, and document identified defects.
-I believe that good testing is not just about finding bugs — it's about understanding how software works and where it can fail.
-### What I Do
-- 🔍 Functional and regression testing
-- 🧪 Smoke testing based on technical specifications
-- 📝 Test cases and checklists
-- 🐞 Bug reporting and defect analysis
-- 🌐 Web application testing
-- 🛠️ Browser DevTools and web debugging
----
-## 🧰 QA Toolkit
-| Area | Knowledge |
-|:---|:---|
-| Testing | Functional, Smoke, Regression, Exploratory |
-| Test Design | Test Cases, Checklists, Boundary Value Analysis |
-| Defect Management | Bug Reports, Severity, Priority |
-| Web | HTTP, Client-Server Architecture, HTML, CSS |
-| Tools | Chrome DevTools, Git, GitHub |
-| Methodologies | SDLC, STLC, Agile fundamentals |
----
-## 💻 Technologies
+
+⸻
+
+👨‍💻 About Me
+
+Junior QA Engineer focused on web application testing. I work with technical specifications, test application functionality, identify defects and verify fixes.
+
+* 🔍 Functional, smoke and regression testing
+* 📝 Test cases and checklists
+* 🐞 Bug reporting and defect analysis
+* 🌐 Web application testing
+* 🛠️ Browser DevTools
+
+🧪 QA Toolkit
+
+Area	Skills
+Testing	Functional, Smoke, Regression
+Test Design	Test Cases, Checklists
+Bug Reporting	Steps to Reproduce, Expected/Actual Result
+Web Testing	UI, Forms, Validation, Navigation
+Tools	Chrome DevTools, Git, GitHub, VS Code
+
+⚙️ Technologies
+
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,js,html,css&theme=dark" alt="Technologies"/>
 </div>
----
-## 🚀 Currently Learning
+
+📚 Currently Learning
+
 <div align="center">
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![API Testing](https://img.shields.io/badge/API_Testing-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=javascript,playwright&theme=dark" alt="Currently learning"/>
+
+JavaScript · Playwright · API Testing · SQL
+
 </div>
-- JavaScript fundamentals
-- UI automation with Playwright
-- REST API testing
-- SQL fundamentals
----
-## 📂 QA Portfolio
-My GitHub is where I document practical testing work and build my QA portfolio.
-New projects and testing documentation will be published here as they are completed.
----
+
+📂 QA Portfolio
+
+I’m building a practical QA portfolio with test cases, checklists, bug reports and testing examples.
+
+Projects will be added here as they are completed.
+
+🎯 Current Focus
+
+Manual QA → Automation QA
+
+My current priority is strengthening manual testing skills, improving test design and learning JavaScript with Playwright.
+
+⸻
+
 <div align="center">
-### "Quality is never an accident."
-*It is always the result of intelligent effort.*
-<br/>
-<a href="https://github.com/SLVmast">
-  <img src="https://img.shields.io/badge/Explore_my_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:312E81,100:111827&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312E81,100:0891B2&height=120&section=footer" width="100%" alt="Footer"/>
+
+TEST · FIND · IMPROVE
+
 </div>
